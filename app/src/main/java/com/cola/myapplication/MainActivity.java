@@ -17,4 +17,11 @@ public class MainActivity extends AppCompatActivity {
     private int add(){
         return 0;
     }
+
+    /**
+     * find max
+     */
+    private void getMax(){
+        int max = 100;
+    }
 }
